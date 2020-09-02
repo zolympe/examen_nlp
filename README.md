@@ -1,8 +1,8 @@
 # examen_nlp
-Rattrapge Examen 2
+Rattrapage Examen 2
 Bonjour Mikael,
 
-Tu trouveras dans le zip les fihciers suivants :
+Tu trouveras dans le zip les fichiers suivants :
 
 helpers.py              Ton fichier helpers pour les dendogrammes
 news                    Répertoire avec les Data
